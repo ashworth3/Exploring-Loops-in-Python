@@ -1,4 +1,4 @@
-Exploring Loops in Python
+## Exploring Loops in Python
 
 # Task 1 - Counting Down with Loops
 
